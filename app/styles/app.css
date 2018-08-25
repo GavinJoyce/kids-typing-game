@@ -1,0 +1,5 @@
+@import 'tailwind.css';
+
+.mobiledoc-editor__editor {
+  color: white;
+}
